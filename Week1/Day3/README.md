@@ -1,5 +1,5 @@
 # Week1 - Day 3
 
-## Problems
+# Problems
 - Problem 1
 - Problem 2
