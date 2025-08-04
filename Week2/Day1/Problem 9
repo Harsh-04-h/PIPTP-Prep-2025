@@ -7,7 +7,7 @@ public class Q9 {
     }
 
     public static void main(String[] args) {
-        System.out.println(sumDigits(1234)); // Output: 10 (1 + 2 + 3 + 4)
+        System.out.println(sumDigits(1234)); 
     }
 }
 
