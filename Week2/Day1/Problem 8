@@ -1,1 +1,13 @@
+public class Q8 {
+    public static int countCalls(int n) {
+        if (n == 0) {
+            return 0;
+        }
+        return 1 + countCalls(n - 1) + countCalls(n - 1);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(countCalls(3)); // Output: 7 (1 + 2 + 4)
+    }
+}
 
