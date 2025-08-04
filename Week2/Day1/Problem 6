@@ -9,7 +9,7 @@ public class Q6 {
     }
 
     public static void main(String[] args) {
-        System.out.println(fib(6)); // Output: 8 (0, 1, 1, 2, 3, 5, 8)
+        System.out.println(fib(6)); 
     }
 }
 
