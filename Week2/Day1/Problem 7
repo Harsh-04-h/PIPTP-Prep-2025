@@ -7,7 +7,7 @@ public class Q7 {
     }
 
     public static void main(String[] args) {
-        System.out.println(fun(5)); // Output: 5
+        System.out.println(fun(5)); 
     }
 }
 
